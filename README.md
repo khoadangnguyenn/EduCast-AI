@@ -1,6 +1,6 @@
-# LearnTrack AI: Predictive Academic Modeling
+# EduCast AI: Predictive Academic Modeling
 
-LearnTrack AI is a machine learning pipeline for predicting student pass probability based on behavioral logs and lab submission patterns.
+EduCast AI is a machine learning pipeline for predicting student pass probability based on behavioral logs and lab submission patterns.
 
 The system leverages ensemble learning with gradient boosting models to optimize **AUPRC (Area Under Precision-Recall Curve)** — a key metric for imbalanced classification.
 
